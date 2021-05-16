@@ -1,0 +1,25 @@
+.calculadora {
+    border: 3px;
+    border-color: brown;
+    margin: 16px 16px;
+    height: 280px;
+    color: black;
+    width: 250px;
+    text-align: center;
+    background-color: coral;
+};
+#textoPantalla {
+    width: 185px;
+    border: 2px;
+    color:black solid;
+    text-align: right;
+    position: relative; 
+    left: 23px;
+    padding: 0px 5px;
+    background-color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden; 
+};
+
+
+
